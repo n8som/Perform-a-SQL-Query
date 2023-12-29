@@ -2,7 +2,7 @@
 
 <h2>Activity overview</h2>
 
-  Previously, I learned how to use basic SQL queries to retrieve information from a database. I have also learned about using the ```ORDER BY``` keyword to sort data returned in an ascending or descending order.
+  I learned how to use basic SQL queries to retrieve information from a database. I have also learned about using the ```ORDER BY``` keyword to sort data returned in an ascending or descending order.
 
 In this lab activity, I’ll use ```SELECT``` and ```FROM``` in SQL to return the information I need from a database. I’ll also use the ```ORDER BY``` keyword to sequence the information returned by a query based on a specified column.
 
